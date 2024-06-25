@@ -7,3 +7,6 @@ if number < 5 {
     println!("Condition was false")
 }
 }
+
+
+// Testing the git integration
